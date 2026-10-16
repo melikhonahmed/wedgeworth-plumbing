@@ -1,0 +1,153 @@
+{
+  "colorMode": "LIGHT",
+  "font": "PLUS_JAKARTA_SANS",
+  "roundness": "ROUND_EIGHT",
+  "customColor": "#2e7d32",
+  "headlineFont": "PLUS_JAKARTA_SANS",
+  "bodyFont": "PLUS_JAKARTA_SANS",
+  "labelFont": "PLUS_JAKARTA_SANS",
+  "namedColors": {
+    "on_tertiary_fixed_variant": "#3f465c",
+    "on_primary_fixed": "#002204",
+    "inverse_primary": "#88d982",
+    "tertiary_fixed_dim": "#bec6e0",
+    "surface": "#f7f9fb",
+    "primary_container": "#2e7d32",
+    "on_tertiary": "#ffffff",
+    "secondary": "#795900",
+    "on_tertiary_fixed": "#131b2e",
+    "on_primary": "#ffffff",
+    "inverse_on_surface": "#eff1f3",
+    "tertiary": "#4d556b",
+    "on_secondary_container": "#6f5100",
+    "tertiary_container": "#656d84",
+    "error_container": "#ffdad6",
+    "surface_tint": "#1b6d24",
+    "tertiary_fixed": "#dae2fd",
+    "on_background": "#191c1e",
+    "surface_container": "#eceef0",
+    "secondary_fixed": "#ffdfa0",
+    "on_primary_fixed_variant": "#005312",
+    "outline": "#707a6c",
+    "on_secondary_fixed": "#261a00",
+    "secondary_container": "#fec330",
+    "primary": "#0d631b",
+    "inverse_surface": "#2d3133",
+    "on_surface_variant": "#40493d",
+    "primary_fixed": "#a3f69c",
+    "primary_fixed_dim": "#88d982",
+    "surface_container_lowest": "#ffffff",
+    "surface_dim": "#d8dadc",
+    "on_tertiary_container": "#eef0ff",
+    "on_error": "#ffffff",
+    "on_secondary_fixed_variant": "#5c4300",
+    "surface_bright": "#f7f9fb",
+    "on_secondary": "#ffffff",
+    "on_error_container": "#93000a",
+    "surface_container_low": "#f2f4f6",
+    "surface_container_high": "#e6e8ea",
+    "secondary_fixed_dim": "#f8bd2a",
+    "error": "#ba1a1a",
+    "outline_variant": "#bfcaba",
+    "surface_variant": "#e0e3e5",
+    "background": "#f7f9fb",
+    "on_surface": "#191c1e",
+    "surface_container_highest": "#e0e3e5",
+    "on_primary_container": "#cbffc2"
+  },
+  "designMd": "---\nname: Reliable Trades Precision\ncolors:\n  surface: '#f7f9fb'\n  surface-dim: '#d8dadc'\n  surface-bright: '#f7f9fb'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#f2f4f6'\n  surface-container: '#eceef0'\n  surface-container-high: '#e6e8ea'\n  surface-container-highest: '#e0e3e5'\n  on-surface: '#191c1e'\n  on-surface-variant: '#40493d'\n  inverse-surface: '#2d3133'\n  inverse-on-surface: '#eff1f3'\n  outline: '#707a6c'\n  outline-variant: '#bfcaba'\n  surface-tint: '#1b6d24'\n  primary: '#0d631b'\n  on-primary: '#ffffff'\n  primary-container: '#2e7d32'\n  on-primary-container: '#cbffc2'\n  inverse-primary: '#88d982'\n  secondary: '#795900'\n  on-secondary: '#ffffff'\n  secondary-container: '#fec330'\n  on-secondary-container: '#6f5100'\n  tertiary: '#4d556b'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#656d84'\n  on-tertiary-container: '#eef0ff'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#a3f69c'\n  primary-fixed-dim: '#88d982'\n  on-primary-fixed: '#002204'\n  on-primary-fixed-variant: '#005312'\n  secondary-fixed: '#ffdfa0'\n  secondary-fixed-dim: '#f8bd2a'\n  on-secondary-fixed: '#261a00'\n  on-secondary-fixed-variant: '#5c4300'\n  tertiary-fixed: '#dae2fd'\n  tertiary-fixed-dim: '#bec6e0'\n  on-tertiary-fixed: '#131b2e'\n  on-tertiary-fixed-variant: '#3f465c'\n  background: '#f7f9fb'\n  on-background: '#191c1e'\n  surface-variant: '#e0e3e5'\ntypography:\n  headline-xl:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 48px\n    fontWeight: '800'\n    lineHeight: 56px\n  headline-xl-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 32px\n    fontWeight: '800'\n    lineHeight: 40px\n  headline-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 36px\n    fontWeight: '700'\n    lineHeight: 44px\n  headline-lg-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 26px\n    fontWeight: '700'\n    lineHeight: 34px\n  headline-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 32px\n  headline-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 28px\n  body-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 18px\n    fontWeight: '400'\n    lineHeight: 28px\n  body-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 24px\n  body-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 20px\n  label-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 16px\n    fontWeight: '700'\n    lineHeight: 24px\n  label-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 20px\n  label-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 12px\n    fontWeight: '600'\n    lineHeight: 16px\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1.5rem\n  gutter-mobile: 1rem\n  margin: 2rem\n  margin-mobile: 1rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\nThis design system serves a premier residential and light commercial plumbing contractor operating in high-demand metropolitan markets. The brand voice balances neighborhood familiarity—anchored by its memorable, charismatic werewolf mascot—with uncompromising professional tradesmanship, rapid emergency response, and certified technical mastery.\n\nThe visual direction represents a refined modern trade aesthetic: clear, structured, high-conversion layouts that strip away legacy web clutter in favor of scannable service hierarchies, unmistakable click-to-call actions, clear booking funnels, and verified social proof. White space and deliberate content framing elevate the identity from a transactional field service site into an authoritative, dependable service portal that homeowners and property managers turn to during urgent moments.\n\nHigh contrast between clean backgrounds and crisp deep slate typography delivers immediate readability across diverse lighting environments, while the heritage green and solar gold palette injects vibrant energy and local recognition.\n\n## Colors\n\nThe palette leverages the energetic brand colors while optimizing for WCAG AAA legibility and purposeful conversion hierarchy:\n\n- **Primary (`#2E7D32` with `#388E3C` accent):** Represents vitality, technical resolution, and heritage branding. Used for key navigation anchors, primary confirmation flows, verified badge backgrounds, and hero service banners.\n- **Secondary (`#FBC02D` with `#FDD835` hover states):** High-energy attention driver applied selectively to primary conversion triggers (e.g., \"Schedule Service\", emergency call toggles, and rating star aggregates). It signals immediate availability and warmth without creating visual fatigue.\n- **Tertiary (`#0F172A` Slate/Charcoal):** Provides a heavy, modern foundation for primary headlines, card titles, footers, and technical specifications, replacing low-contrast grays with crisp editorial clarity.\n- **Neutral (`#F8FAFC` to `#FFFFFF`):** Creates airy, pristine canvas surfaces and card containers, ensuring services and customer testimonials read like certified documentation rather than crowded flyers.\n\n## Typography\n\nThe design system standardizes on **Plus Jakarta Sans** across display, body, and UI functional roles. Its precise geometric proportions paired with warm humanist terminal curves project institutional stability, modern approachability, and exceptional micro-legibility on mobile devices.\n\n- **Headlines:** Set in bold weights (700 and 800) with compact line-heights, ensuring punchy readability for service promises, emergency phone numbers, and location badges.\n- **Body:** Renders with generous line-heights in charcoal (`#334155`), ensuring stress-free scanning for diagnostic blog posts, service scope descriptions, and warranty details.\n- **Labels & Numbers:** Benefit from high-contrast weights, maintaining clarity within input fields, badge pills, and prominent telephone CTAs.\n\n## Layout & Spacing\n\nLayouts follow a structured 12-column responsive grid with a strict 4px/8px incremental scale:\n\n- **Breakpoints:**\n  - `Mobile` (< 640px): 4 columns, 16px margins, full-bleed floating call bars.\n  - `Tablet` (640px - 1024px): 8 columns, 24px margins, balanced 2-column service matrices.\n  - `Desktop` (> 1024px): 12 columns, max-width container capped at 1280px, flanked by adaptive margins.\n- **Rhythm & Structure:** Section transitions avoid harsh, disjointed full-color blocks. Instead, they use tonal alternating sections (`#FFFFFF` to `#F8FAFC`) with deep green utility bars and crisp yellow call-to-action islands to maintain momentum and minimize cognitive load.\n\n## Elevation & Depth\n\nVisual hierarchy employs calibrated ambient shadows combined with delicate 1px border lines to deliver depth without visual clutter:\n\n- **Level 0 (Flat/Base):** Default canvas and flush content rows using neutral surfaces (`#F8FAFC` or `#FFFFFF`).\n- **Level 1 (Cards & Service Blocks):** Soft ambient lift (`box-shadow: 0 1px 3px rgba(15, 23, 42, 0.06), 0 1px 2px rgba(15, 23, 42, 0.04)`) bounded by a subtle outline (`border: 1px solid #E2E8F0`). Gives reviews and service items a physical card presence.\n- **Level 2 (Hover & Active States):** Lifted interaction state (`box-shadow: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -2px rgba(15, 23, 42, 0.04)`) with smooth 200ms ease transitions.\n- **Level 3 (Floating Conversion Sticky Bar & Modals):** Crisp elevated surface (`box-shadow: 0 20px 25px -5px rgba(15, 23, 42, 0.12), 0 10px 10px -5px rgba(15, 23, 42, 0.04)`), utilized for sticky mobile call headers and rapid dispatch request drawers.\n\n## Shapes\n\nThe design system implements a roundedness level of `2` (medium-soft architecture):\n- Standard inputs, buttons, and individual cards feature an 8px (`0.5rem`) corner radius, striking a balance between commercial industrial reliability and residential approachability.\n- Feature containers, hero booking panels, and review carousels leverage 16px (`1rem`) to create smooth framing.\n- Badges, status chips, and phone trigger buttons utilize full pill radii (`9999px`) to invite touch interactions.\n\n## Components\n\n### Buttons & Interactive CTAs\n- **Primary Action (Emergency / Schedule Now):** High-visibility secondary yellow (`#FBC02D`) with bold dark slate text (`#0F172A`). Subtle downward shadow, transitioning to `#FDD835` on hover.\n- **Secondary Action (Direct Phone Call):** Deep forest green (`#2E7D32`) background with crisp white typography and an integrated phone handset icon.\n- **Tertiary / Ghost Actions:** Transparent background with 1.5px border in `#2E7D32` and matching text, turning solid green upon hover.\n\n### Service Cards\n- Clean white surfaces (`#FFFFFF`) framed by a 1px border in `#E2E8F0`.\n- Top-anchored icon containers rendered in pale sage green (`#E8F5E9`) encasing vibrant green line icons (`#2E7D32`).\n- Bold headline followed by concise value proposition and a discrete text link (\"Learn More →\").\n\n### Lead Capture & Booking Form\n- High-contrast, clean-lined field containers with soft gray borders (`#CBD5E1`) that transition to a crisp 2px primary green border (`#2E7D32`) upon focus.\n- Elevated floating card presentation placed adjacent to the hero message or fixed in the dispatch sequence.\n- High-contrast submit button spanning full width, accompanied by instant response indicators (\"Typical response under 15 minutes\").\n\n### Trust & Credibility Badges\n- Modular horizontal ribbon showcasing certified partners (PHCC, Google Guaranteed 4.9★, BBB Accredited, local media features) in uniform monochrome or clean natural badge styling.\n- Customer testimonial cards featuring 5 gold star icons, localized verified tags (e.g., \"Verified Homeowner - Katy, TX\"), and quote excerpts.",
+  "colorVariant": "FIDELITY",
+  "overridePrimaryColor": "#2e7d32",
+  "overrideSecondaryColor": "#fbc02d",
+  "overrideTertiaryColor": "#0f172a",
+  "overrideNeutralColor": "#f8fafc",
+  "spacingScale": 2,
+  "typography": {
+    "label-lg": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px"
+    },
+    "headline-sm": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "20px",
+      "fontWeight": "600",
+      "lineHeight": "28px"
+    },
+    "body-md": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px"
+    },
+    "body-sm": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px"
+    },
+    "headline-xl-mobile": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "32px",
+      "fontWeight": "800",
+      "lineHeight": "40px"
+    },
+    "body-lg": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "28px"
+    },
+    "headline-lg": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "36px",
+      "fontWeight": "700",
+      "lineHeight": "44px"
+    },
+    "headline-lg-mobile": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "26px",
+      "fontWeight": "700",
+      "lineHeight": "34px"
+    },
+    "headline-xl": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "48px",
+      "fontWeight": "800",
+      "lineHeight": "56px"
+    },
+    "label-md": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "20px"
+    },
+    "headline-md": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "24px",
+      "fontWeight": "700",
+      "lineHeight": "32px"
+    },
+    "label-sm": {
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "16px"
+    }
+  },
+  "spacing": {
+    "space-xs": "0.25rem",
+    "space-xl": "2.5rem",
+    "gutter-mobile": "1rem",
+    "space-lg": "1.5rem",
+    "gutter": "1.5rem",
+    "space-sm": "0.5rem",
+    "margin": "2rem",
+    "space-md": "1rem",
+    "margin-mobile": "1rem"
+  },
+  "headlineFontFamily": "Plus Jakarta Sans",
+  "bodyFontFamily": "Plus Jakarta Sans",
+  "labelFontFamily": "Plus Jakarta Sans"
+}
